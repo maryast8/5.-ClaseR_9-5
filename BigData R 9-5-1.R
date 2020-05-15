@@ -135,7 +135,7 @@ if(wuajaja){
   print("var6 no es numerico")
   print(var6)
 } else if(var6 >= 0){
-  #acciones cuando var6 e smayor igual a 0
+  #acciones cuando var6 es mayor igual a 0
   print("var6 es mayor igual a 0")
   var6 <-2 * var6 ^ 2 
   print(var6)
